@@ -1,0 +1,46 @@
+[palette]
+black = 0x292929
+red = 0x9D2329
+green = 0x235D34
+yellow = 0x714B00
+blue = 0x054B6F
+purple = 0x7A28A9
+cyan = 0x005C5D
+white = 0xD7D7D7
+dark_red = 0x8C151F
+dark_green = 0x145129
+dark_yellow = 0x624000
+dark_blue = 0x003F5F
+dark_purple = 0x6D169C
+dark_cyan = 0x004F57
+dark_white = 0xBEBEBE
+
+[editor]
+bg = "white"
+fg = "black"
+caret = "black"
+comment = 0x484848
+gutter_fg = 0x2E2E2E
+gutter_bg = "white"
+line_hightlight = 0x9E9E9E
+selection = 0x636363
+
+[terminal]
+bg = "white"
+fg = "black"
+black = "black"
+red = "dark_red"
+green = "dark_green"
+yellow = "dark_yellow"
+blue = "dark_blue"
+magenta = "dark_purple"
+cyan = "dark_cyan"
+white = "dark_white"
+bright_black = 0x808080
+bright_red = "red"
+bright_green = "green"
+bright_yellow = "yellow"
+bright_blue = "blue"
+bright_magenta = "purple"
+bright_cyan = "cyan"
+bright_white = "white"
