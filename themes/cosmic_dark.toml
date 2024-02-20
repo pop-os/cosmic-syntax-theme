@@ -22,7 +22,7 @@ caret = "dark_white"
 comment = 0x808080
 gutter_fg = 0x9E9E9E
 gutter_bg = "black"
-line_hightlight = 0x2E2E2E
+line_highlight = 0x2E2E2E
 selection = 0x636363
 
 [terminal]
