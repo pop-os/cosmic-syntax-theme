@@ -22,8 +22,8 @@ caret = "black"
 comment = 0x484848
 gutter_fg = 0x2E2E2E
 gutter_bg = "white"
-line_highlight = 0x9E9E9E
-selection = 0xCACACA
+line_highlight = 0xCACACA
+selection = 0xADADAD
 
 [terminal]
 bg = "white"
